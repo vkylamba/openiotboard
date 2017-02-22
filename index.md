@@ -1,7 +1,5 @@
 # Open IoT Board
 
-[![Engineering](https://okosengineering.com/static/logo.png)](https://okosengineering.com/products/openiotboard)
-
 Open Iot Board is open source hardware board to enable easy development of IoT devices.
 
   - Atmega328 controller based
