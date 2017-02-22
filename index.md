@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Open IoT Board
 
-You can use the [editor on GitHub](https://github.com/vkylamba/openiotboard/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[![Engineering](https://okosengineering.com/static/logo.png)](https://okosengineering.com/products/openiotboard)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Open Iot Board is open source hardware board to enable easy development of IoT devices.
 
-### Markdown
+  - Atmega328 controller based
+  - On board GPRS
+  - LCD screen
+  - Works with Arduino Software
+  - Has arduino bootloader
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can also:
+  - Write your program in arduino environment and load it into the board.
+  - Use the board with platformio
 
-```markdown
-Syntax highlighted code block
+### Board Images
 
-# Header 1
-## Header 2
-### Header 3
+And of course Dillinger itself is open source with a [public repository][dill]
+ on GitHub.
 
-- Bulleted
-- List
+### Getting Started with the board
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vkylamba/openiotboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Install arduino
+2. Connect the board to computer via USB
+3. In arduino==>Tools==>Boards select Open IoT Board
+4. Open example program and load it in the board
+5. That's it. 
