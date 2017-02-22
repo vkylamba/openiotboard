@@ -16,8 +16,7 @@ You can also:
 
 ### Board Images
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+YET TO COME
 
 ### Getting Started with the board
 
