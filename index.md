@@ -7,6 +7,16 @@ Open Iot Board is open source hardware board to enable easy development of IoT d
   - Atmega328 controller based
   - On board GPRS
   - LCD screen
+  - On board IR communiation
+  - Status LED and push button
+  - Communication header pins to connect bluetooth/Wifi modules
+  - Headers for Analog pins
+  - Programmer port to use external programmer to program the board
+  - High voltage measurement port with voltage divider circuit
+  - Analog port with LM358 amplifier
+  - Relay or switch control port
+  
+  - Buck converter. The boad can be powered via an energy source of 5 to 35 voltage
   - Works with Arduino Software
   - Has arduino bootloader
 
