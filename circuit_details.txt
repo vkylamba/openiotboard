@@ -1,0 +1,10 @@
+Power circuit:
+
+	1. 40V to 12V converter
+	2. 12V, 5V, and 3.3V output
+	3. Barrel jack, and terminal block for input power supply
+	4. Terminal block for 12V output power supply
+
+	5. Switch to select power source(external supply or 12V) for the LEDs.
+	6. 
+
