@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:board-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -34,7 +35,6 @@ LIBS:switches
 LIBS:ftdi
 LIBS:leds
 LIBS:L293D
-LIBS:board-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -55,7 +55,7 @@ U 1 1 5973CA65
 P 5550 3750
 F 0 "IC2" H 5150 4590 50  0000 L BNN
 F 1 "L293D" H 5150 2850 50  0000 L BNN
-F 2 "" H 5550 3750 50  0001 L BNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 5550 3750 50  0001 L BNN
 F 3 "STMicroelectronics" H 5550 3750 50  0001 L BNN
 F 4 "Driver%3B 36V%3B Power DIP%3B 600mA Low LevelO/P%3B 1.2A O/P High Level%3B 4 Drivers%3B 7V" H 5550 3750 50  0001 L BNN "Description"
 F 5 "Good" H 5550 3750 50  0001 L BNN "Availability"
@@ -97,7 +97,7 @@ U 1 1 5973CA74
 P 2750 3300
 F 0 "J13" H 2750 3550 50  0000 C TNN
 F 1 "LED_OUT5" V 2600 3300 50  0000 C TNN
-F 2 "" H 2750 3075 50  0001 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_2pol" H 2750 3075 50  0001 C CNN
 F 3 "" H 2725 3300 50  0001 C CNN
 	1    2750 3300
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 5973CA7A
 P 2750 3850
 F 0 "J14" H 2750 4100 50  0000 C TNN
 F 1 "LED_OUT6" V 2600 3850 50  0000 C TNN
-F 2 "" H 2750 3625 50  0001 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_2pol" H 2750 3625 50  0001 C CNN
 F 3 "" H 2725 3850 50  0001 C CNN
 	1    2750 3850
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5973CA7E
 P 2750 4400
 F 0 "J15" H 2750 4650 50  0000 C TNN
 F 1 "LED_OUT7" V 2600 4400 50  0000 C TNN
-F 2 "" H 2750 4175 50  0001 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_2pol" H 2750 4175 50  0001 C CNN
 F 3 "" H 2725 4400 50  0001 C CNN
 	1    2750 4400
 	1    0    0    -1  
@@ -130,7 +130,7 @@ U 1 1 596FA03B
 P 2750 4950
 F 0 "J16" H 2750 5200 50  0000 C TNN
 F 1 "LED_OUT8" V 2600 4950 50  0000 C TNN
-F 2 "" H 2750 4725 50  0001 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_2pol" H 2750 4725 50  0001 C CNN
 F 3 "" H 2725 4950 50  0001 C CNN
 	1    2750 4950
 	1    0    0    -1  

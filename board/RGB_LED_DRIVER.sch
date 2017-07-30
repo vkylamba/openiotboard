@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:board-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -34,7 +35,6 @@ LIBS:switches
 LIBS:ftdi
 LIBS:leds
 LIBS:L293D
-LIBS:board-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -55,7 +55,7 @@ U 1 1 5974E9B4
 P 2050 2000
 F 0 "J43" H 2050 2350 50  0000 C TNN
 F 1 "RGB1" V 1900 2000 50  0000 C TNN
-F 2 "" H 2050 1675 50  0001 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_3pol" H 2050 1675 50  0001 C CNN
 F 3 "" H 2025 2100 50  0001 C CNN
 	1    2050 2000
 	1    0    0    -1  
@@ -87,7 +87,7 @@ U 1 1 5974ED50
 P 2100 3350
 F 0 "J44" H 2100 3700 50  0000 C TNN
 F 1 "RGB2" V 1950 3350 50  0000 C TNN
-F 2 "" H 2100 3025 50  0001 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_3pol" H 2100 3025 50  0001 C CNN
 F 3 "" H 2075 3450 50  0001 C CNN
 	1    2100 3350
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5974ED8C
 P 3950 1950
 F 0 "J45" H 3950 2300 50  0000 C TNN
 F 1 "RGB4" V 3800 1950 50  0000 C TNN
-F 2 "" H 3950 1625 50  0001 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_3pol" H 3950 1625 50  0001 C CNN
 F 3 "" H 3925 2050 50  0001 C CNN
 	1    3950 1950
 	1    0    0    -1  
@@ -151,7 +151,7 @@ U 1 1 5974EDD6
 P 3950 3300
 F 0 "J46" H 3950 3650 50  0000 C TNN
 F 1 "RGB3" V 3800 3300 50  0000 C TNN
-F 2 "" H 3950 2975 50  0001 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_3pol" H 3950 2975 50  0001 C CNN
 F 3 "" H 3925 3400 50  0001 C CNN
 	1    3950 3300
 	1    0    0    -1  

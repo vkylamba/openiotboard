@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:board-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -34,7 +35,6 @@ LIBS:switches
 LIBS:ftdi
 LIBS:leds
 LIBS:L293D
-LIBS:board-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -55,7 +55,7 @@ U 1 1 59732294
 P 3050 1650
 F 0 "J41" H 3050 1900 50  0000 C CNN
 F 1 "WiFi" H 3050 1400 50  0000 C CNN
-F 2 "" H 3050 450 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x04" H 3050 450 50  0001 C CNN
 F 3 "" H 3050 450 50  0001 C CNN
 	1    3050 1650
 	1    0    0    -1  
@@ -116,7 +116,7 @@ U 1 1 597328E7
 P 3100 2650
 F 0 "J42" H 3100 2900 50  0000 C CNN
 F 1 "GPRS" H 3100 2400 50  0000 C CNN
-F 2 "" H 3100 1450 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x04" H 3100 1450 50  0001 C CNN
 F 3 "" H 3100 1450 50  0001 C CNN
 	1    3100 2650
 	1    0    0    -1  
